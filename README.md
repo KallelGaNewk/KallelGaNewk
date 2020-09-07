@@ -1,16 +1,13 @@
-### Hi there 👋
+# KallelGaNewk
 
-<!--
-**KallelGaNewk/KallelGaNewk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[GitHub Gists](https://gist.github.com/KallelGaNewk)
+[Twitter](https://twitter.com/KallelGaNewk_)
+[Spotify](https://open.spotify.com/user/kallelgn)
+[Twitch](https://www.twitch.tv/kallelganewk_)
+[Steam](https://steamcommunity.com/id/KallelGaNewk/)
 
-Here are some ideas to get you started:
+## Organizations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Foxiva](https://github.com/Foxiva)
+- [TheNight](https://github.com/TheNight-INC)
+- [NowbyProject.org](https://github.com/NowbyProject)
