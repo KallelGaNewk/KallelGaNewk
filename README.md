@@ -9,5 +9,5 @@
 ## Organizations
 
 - [Foxiva](https://github.com/Foxiva)
-- [TheNight](https://github.com/TheNight-INC)
+- [TheNight](https://github.com/TheNightCorporation)
 - [NowbyProject.org](https://github.com/NowbyProject)
