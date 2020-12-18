@@ -6,8 +6,7 @@
 - [Twitch](https://www.twitch.tv/kallelganewk_)
 - [Steam](https://steamcommunity.com/id/KallelGaNewk/)
 
-## Organizations
+## Projects
 
-- [Foxiva](https://github.com/Foxiva)
-- [TheNight](https://github.com/TheNightCorporation)
-- [NowbyProject.org](https://github.com/NowbyProject)
+- [MCData](https://www.npmjs.com/package/mcdata)
+- [reddit-event](https://www.npmjs.com/package/reddit-event)
