@@ -1,4 +1,6 @@
-# [KallelGaNewk](https://kallel.tech/)
+[![github-stats](https://github-readme-stats.vercel.app/api?username=kallelganewk&show_icons=true&theme=synthwave)](https://github.com/KallelGaNewk)
+
+## Social
 
 - Discord: KallelGaNewk#7351
 - [GitHub Gists](https://gist.github.com/KallelGaNewk)
