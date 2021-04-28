@@ -10,11 +10,11 @@
 
 ### Currently learning:
 
-<img src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=for-the-badge&logo=typescript"/> <img src="https://img.shields.io/badge/java%20-%2320232a.svg?&style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=for-the-badge&logo=typescript"/> <img src="https://img.shields.io/badge/java%20-%2320232a.svg?&style=for-the-badge&logo=java"/> <img src="https://img.shields.io/badge/kotlin%20-%2320232a.svg?&style=for-the-badge&logo=kotlin"/>
 
 ### I will still learn:
 
-<img src="https://img.shields.io/badge/kotlin%20-%2320232a.svg?&style=for-the-badge&logo=kotlin"/> <img src="https://img.shields.io/badge/C++%20-%2320232a.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%23007acc"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/C++%20-%2320232a.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%23007acc"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react"/>
 
 ---
 ## Social
